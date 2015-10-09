@@ -1,8 +1,9 @@
 #testDiv1 {
-  width: 35%;
+  width: 15%;
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float: right;
 }
 
 #testDiv2 {
@@ -10,4 +11,21 @@
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float: right;
+}
+
+#testDiv3 {
+  width: 15%;
+  font-size: 1em;
+  padding: 1em;
+  margin: 2em;
+  float: right;
+}
+
+#list1 li. {
+  border: 1px thick black;
+  padding: 10px;
+  width: 200px;
+  margin: 20px;
+  display: block;
 }
