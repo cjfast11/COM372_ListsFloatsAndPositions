@@ -1,3 +1,4 @@
+Lists part 1
 1. This changes the bullets to circles on the inside
 2. Same thing but this is on the outside
 3. The bullets are changes to squares
@@ -5,4 +6,28 @@
 5. This adds a red border around the list in a box
 6. this moves all of the text against the side of the border
 7. this moves the list over more to the center.
-8. At the end it doesnt even look a list in  a way. 
+8. At the end it doesnt even look a list in  a way.
+Part 2
+I do not understand what I am doing wrong here, nothing will change in the web. I have it in style2.css and used the correct tag and nothing is changing
+
+position.html
+2. By using the left tag, it actually moves the chart to the right more
+3. When you move it to the right, it moves the entire thing to the left so much, you actually have missing text.
+4. This top positions the box on top of every other piece of text here.
+5. When you add the left it moves it to the right still on top of the text.
+7. When you change the position to absolute it puts the box on top of the text and the text that was on the bottom moves up.
+8. When you set the top to 0px it goes all the way to the top of the webpage. It looks terrible.
+9. When you add the right with 0px it moves the red box all the way to the right
+10. When you add 100px to the right it moves slightly to the left
+11. When there is no top tag, the box moves back to where it was below the ruler.
+12. When there is a bottom tag, the box goes over the ruler and there is nothing below that like there was before.
+13.
+
+floatshtml
+1. When you add a float tag to the right on both, the two sections line up next to each other.
+2. When you make it to the left, the two switch positions
+3. When one is right and one is left they switch again and are even farther apart.
+4. When one is 60% it covers 60 percent of the webpage compared to the other, hwoever because the numbers dont add up the 2nd one goes underneath the larger one
+5.With the margins I believe the largest size both can be is 87% and this was done by experimenting. I am not 100% sure I got this one though.
+6. When you resize the browser, the size of the boxes want to stay the same so they will ignore the margins. If you make the webpage smaller they will go deeper than the rest of the webpage
+7. If you make the padding bigger, it changes what the size you need is. This goes as well for the margins.
